@@ -9,4 +9,3 @@ EndeavourOS - use as default KDE desktop, then i try to load this install ISO im
 
 Then users will need help, they will click shortcuts in start menu to get information, or read manuals.
 And this default one wallpaper just talks too much, this distro isn't ready be like rocket, so should use cosmic wallpapers instead.
-So i didn't make videos about this distro.
