@@ -6,9 +6,9 @@ EndeavourOS - use as default KDE desktop, then i try load install ISO image, it 
 If they want to make this distro better, i think this disro should use lighter desktop environment as default, as XFCE, but instead in the installation process leave to select KDE, Gnome and etc.
 * This distro should add more wallpapers, not just only one.
 * They should customize terminal, to make look at least like  Kali terminal
-* Welcome intro program is anoying, this distro should leave shortcut on desktop for this guide and dont pop up welcome message, just load system, and keep it clear and simple.
-* Welcome program is under "system" folder in the start menu, but this program and other special programs made for this distro should be under EndeavourOS folder.
+* Welcome intro program is anoying, this distro should leave shortcut on penel menu for this guide and dont pop up welcome message, just load system, and keep it clear and simple.
+* Welcome program is in "System" and in the "Favorites" folders of the start menu, but this program and other special programs made for this distro should be in EndeavourOS folder.
 
-
-Then users will need help, they will click shortcut on desktop to get information, or read manuals. Also good option make on start menu all these options on EndeavourOS folder.
+Then users will need help, they will click shortcuts in start menu to get information, or read manuals.
+And this default one wallpaper just talks too much, this distro isn't ready be like rocket, so should use cosmic wallpapers instead.
 So i didn't make videos about this distro.
